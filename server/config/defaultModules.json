@@ -1,0 +1,56 @@
+[
+  {
+    "id": "clock",
+    "title": "Часы",
+    "visible": true,
+    "refreshable": false
+  },
+  {
+    "id": "weather",
+    "title": "Погода",
+    "visible": true,
+    "refreshable": true
+  },
+  {
+    "id": "calendar",
+    "title": "События",
+    "visible": true,
+    "refreshable": true
+  },
+  {
+    "id": "dishes",
+    "title": "Дежурный",
+    "visible": true,
+    "refreshable": true
+  },
+  {
+    "id": "cluster",
+    "title": "Кластер",
+    "visible": true,
+    "refreshable": true
+  },
+  {
+    "id": "immich",
+    "title": "Фото Immich",
+    "visible": true,
+    "refreshable": true
+  },
+  {
+    "id": "markets",
+    "title": "Курсы",
+    "visible": false,
+    "refreshable": true
+  },
+  {
+    "id": "news",
+    "title": "Новости",
+    "visible": true,
+    "refreshable": true
+  },
+  {
+    "id": "music",
+    "title": "Музыка",
+    "visible": false,
+    "refreshable": false
+  }
+]
